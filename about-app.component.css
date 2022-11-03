@@ -1,0 +1,10 @@
+.tab{
+    background-color: lightgreen;
+    margin: 15px;
+    padding:10px;
+}
+
+td{
+    width:33%;
+    margin:5px;
+   }
